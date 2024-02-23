@@ -1,4 +1,6 @@
 # Better_OSX_on_PVE
+[英文](https://github.ink/laobamac/Better_OSX_on_PVE/blob/main/README.md)
+
 更加简单高效地在PVE安装macOS
 
 # 优点
@@ -34,7 +36,7 @@
   * GPU AGPM: 可以，自带了iMacPro的AGPM.kext
 
 # 使用
-1. 从[Releases](https://github.com/laobamac/Better_OSX_on_PVE/releases)下载最新版本引导文件
+1. 从[Releases](https://github.ink/laobamac/Better_OSX_on_PVE/releases)下载最新版本引导文件
 2. 上传到PVE 8
 3. 正确创建一个虚拟机并使用引导文件启动
 4. 开始在线安装macOS
