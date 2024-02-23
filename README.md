@@ -2,8 +2,8 @@
 To install macOS on PVE more easily.
 
 # Advantages
-1.Easy to use(due the macos basesystem inside)</br>
-2.Newer OC and macOS version(Installing online is always the mewest version of macOS)</br>
+1.Easy to use(due the macos basesystem inside)<\br>
+2.Newer OC and macOS version(Installing online is always the newest version of macOS)<\br>
 3.Easy to change settings(You could use OCC or OCAT even Notepad to edit the config.plist after uncompress the .img with ultraiso)
 
 # Status
