@@ -4,6 +4,7 @@
 更加简单高效地在PVE安装macOS
 
 # 优点
+## 修复了KVM-OpenCore 3+个Bug....
 1.易于使用（内置macOS在线安装的recovery环境）   
 
 2.更新的OpenCore和macOS版本（在线安装的macOS总是最新版的）   
