@@ -40,6 +40,6 @@ To install macOS on PVE more easily.
 4. Start installing macOS online
 
 # Credits
-https://github.ink/Leoyzen/KVM-Opencore/
-https://github.ink/acidanthera/OpenCorePkg/
-https://github.ink/thenickdude/KVM-Opencore/
+https://github.com/Leoyzen/KVM-Opencore/  
+https://github.com/acidanthera/OpenCorePkg/  
+https://github.com/thenickdude/KVM-Opencore/  
