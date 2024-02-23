@@ -16,7 +16,7 @@ To install macOS on PVE more easily.
     * AppleHotKey: works
     * FileVault: Maybe?
     * Boot-Audio: works with onboard audio passthrough
-    * OVMF: you can use latest version other than the old way(patched one). see issues.
+    * OVMF: you can use latest version other than the old way(patched one).More information please try it yourself.
 * SMBIOS: iMacPro1,1
 * NIC: vmxnet3/e1000-82545em/virtio-net/passthrough
 * CPU:
