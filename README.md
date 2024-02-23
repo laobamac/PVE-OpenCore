@@ -29,7 +29,7 @@ To install macOS on PVE more easily.
 * Handoff: works with specific Wifi/Bluetooth(Already disable BRCM drivers)
 * USB(Passthrough): works
 * Power Manages
-  * Sleep: works, see details below.
+  * Sleep: works,you can also use PVE to suspend the VM
   * CPU AGPM: wo don't need CPU AGPM because hypervisor handled it well, this is for GPU AGPM
   * GPU AGPM: works
 
