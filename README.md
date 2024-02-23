@@ -1,4 +1,5 @@
 # Better_OSX_on_PVE
+[中文](https://github.ink/laobamac/Better_OSX_on_PVE/blob/main/README_CN.md)
 To install macOS on PVE more easily.
 
 # Advantages
@@ -40,6 +41,6 @@ To install macOS on PVE more easily.
 4. Start installing macOS online
 
 # Credits
-https://github.com/Leoyzen/KVM-Opencore/  
-https://github.com/acidanthera/OpenCorePkg/  
-https://github.com/thenickdude/KVM-Opencore/  
+https://github.ink/Leoyzen/KVM-Opencore/  
+https://github.ink/acidanthera/OpenCorePkg/  
+https://github.ink/thenickdude/KVM-Opencore/  
