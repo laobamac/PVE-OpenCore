@@ -5,7 +5,7 @@
 To install macOS on PVE more easily.
 
 # Advantages
-## Fewer bugs than KVM-OpenCore
+## Fewer bugs amd smaller file than KVM-OpenCore
 1.Easy to use(due the macos basesystem inside)   
 
 2.Newer OC and macOS version(Installing online is always the newest version of macOS)   
