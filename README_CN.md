@@ -1,6 +1,6 @@
 # PVE-OpenCore
 # Better_OSX_on_PVE
-[英文](README.md)
+[English](README.md)
 
 更加简单高效地在PVE安装macOS
 
