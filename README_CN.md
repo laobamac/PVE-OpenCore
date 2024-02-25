@@ -19,7 +19,7 @@
 * Opencore: 0.9.8
     * NVRAM: 原生
     * AppleHotKey: 没问题！
-    * FileVault: 暂不确定
+    * FileVault: 没问题！（已对打了AVX2补丁的版本添加Patch！）
     * Boot-Audio: 直通声卡后可以！（虚拟卡暂不清楚）
     * OVMF: 就该用这个！
 * SMBIOS: iMacPro1,1
