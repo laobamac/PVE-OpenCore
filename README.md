@@ -18,7 +18,7 @@ To install macOS on PVE more easily.
 * Opencore: 0.9.8
     * NVRAM: native
     * AppleHotKey: works
-    * FileVault: Maybe?
+    * FileVault: OK（Already patched for machines which have AVX2 patches）
     * Boot-Audio: works with onboard audio passthrough
     * OVMF: you can use latest version other than the old way(patched one).More information please try it yourself.
 * SMBIOS: iMacPro1,1
