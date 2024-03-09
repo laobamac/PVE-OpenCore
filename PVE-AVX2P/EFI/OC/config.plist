@@ -46,7 +46,7 @@
             <key>Quirks</key>
             <dict>
                 <key>FadtEnableReset</key>
-                <false/>
+                <true/>
                 <key>NormalizeHeaders</key>
                 <false/>
                 <key>RebaseRegions</key>
@@ -163,7 +163,7 @@
                     <key>Comment</key>
                     <string>V1.3.2 | SMC emulator</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/VirtualSMC</string>
                     <key>MaxKernel</key>
@@ -304,9 +304,9 @@
             <key>Emulate</key>
             <dict>
                 <key>Cpuid1Data</key>
-                <data>VAYFAAAAAAAAAAAAAAAAAA==</data>
+                <data>6gYJAAAAAAAAAAAAAAAAAA==</data>
                 <key>Cpuid1Mask</key>
-                <data>////AAAAAAAAAAAAAAAAAA==</data>
+                <data>/////wAAAAAAAAAAAAAAAA==</data>
                 <key>DummyPowerManagement</key>
                 <true/>
                 <key>MaxKernel</key>
@@ -535,7 +535,7 @@
                 <key>SetApfsTrimTimeout</key>
                 <integer>0</integer>
                 <key>ThirdPartyDrives</key>
-                <false/>
+                <true/>
                 <key>XhciPortLimit</key>
                 <false/>
             </dict>
@@ -591,9 +591,9 @@
             <key>Debug</key>
             <dict>
                 <key>AppleDebug</key>
-                <false/>
+                <true/>
                 <key>ApplePanic</key>
-                <false/>
+                <true/>
                 <key>DisableWatchDog</key>
                 <false/>
                 <key>DisplayDelay</key>
@@ -612,7 +612,7 @@
             <key>Security</key>
             <dict>
                 <key>AllowSetDefault</key>
-                <false/>
+                <true/>
                 <key>ApECID</key>
                 <integer>0</integer>
                 <key>AuthRestart</key>
@@ -766,8 +766,6 @@
                     <string>keepsyms=1 -v debug=0x100</string>
                     <key>csr-active-config</key>
                     <data>AAAAAA==</data>
-                    <key>prev-lang:kbd</key>
-                    <string>zh-Hans:252</string>
                     <key>run-efi-updater</key>
                     <string>No</string>
                 </dict>
@@ -830,11 +828,11 @@
             <key>Generic</key>
             <dict>
                 <key>AdviseFeatures</key>
-                <false/>
+                <true/>
                 <key>MLB</key>
-                <string>C02743207GUJG361H</string>
+                <string>C02818100QXJG361H</string>
                 <key>MaxBIOSVersion</key>
-                <false/>
+                <true/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
@@ -846,9 +844,9 @@
                 <key>SystemProductName</key>
                 <string>iMacPro1,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02VL0RAHX87</string>
+                <string>C02WN0W8HX87</string>
                 <key>SystemUUID</key>
-                <string>2CB56DA6-E449-45CE-B010-E67E58283F51</string>
+                <string>B5259071-22D6-478B-BF70-B9F3C99B17A5</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
@@ -971,6 +969,18 @@
                     <false/>
                     <key>Path</key>
                     <string>OpenCanopy.efi</string>
+                </dict>
+                <dict>
+                    <key>Arguments</key>
+                    <string></string>
+                    <key>Comment</key>
+                    <string></string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>LoadEarly</key>
+                    <false/>
+                    <key>Path</key>
+                    <string>ResetNvramEntry.efi</string>
                 </dict>
             </array>
             <key>Input</key>
