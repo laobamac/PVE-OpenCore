@@ -163,7 +163,7 @@
                     <key>Comment</key>
                     <string>V1.3.3 | SMC emulator</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/VirtualSMC</string>
                     <key>MaxKernel</key>
@@ -271,7 +271,7 @@
                     <key>Comment</key>
                     <string>V1.0.3 | Support for non-AVX2 CPUs in Ventura</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/CryptexFixup</string>
                     <key>MaxKernel</key>
@@ -832,7 +832,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02743207GUJG361H</string>
+                <string>C021109024NJG36FB</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -846,9 +846,9 @@
                 <key>SystemProductName</key>
                 <string>iMacPro1,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02VL0RAHX87</string>
+                <string>C02FD0T7HX87</string>
                 <key>SystemUUID</key>
-                <string>2CB56DA6-E449-45CE-B010-E67E58283F51</string>
+                <string>88813349-82D8-4A90-802A-FA9F43CD7A4E</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
