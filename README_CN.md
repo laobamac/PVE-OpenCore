@@ -48,6 +48,6 @@
 5. 安装后请修改ScanPolicy或删除com.apple.recovery.boot以隐藏安装项
 
 # 引用
-https://github.ink/Leoyzen/KVM-Opencore/  
-https://github.ink/acidanthera/OpenCorePkg/  
-https://github.ink/thenickdude/KVM-Opencore/  
+https://github.com/Leoyzen/KVM-Opencore/  
+https://github.com/acidanthera/OpenCorePkg/  
+https://github.com/thenickdude/KVM-Opencore/  
