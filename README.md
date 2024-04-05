@@ -7,7 +7,7 @@ To install macOS on PVE more easily.
 
 # Advantages
 ## Fewer bugs amd smaller file than KVM-OpenCore
-1.Easy to use(due the macos basesystem inside)   
+1.Easy to use(due the macos basesystem inside)（the macOS recovery won't be provided after [V20240224](https://github.com/laobamac/PVE-OpenCore/tree/V20240224),a single recovery image will take its place）   
 
 2.Newer OC and macOS version(Installing online is always the newest version of macOS)   
 
