@@ -9,7 +9,7 @@
 # 优点
 ## 修复了KVM-OpenCore 3+个Bug....
 ## 拥有比 KVM-OpenCore 更小的体积！
-1.易于使用（内置macOS在线安装的recovery环境）   
+1.易于使用（内置macOS在线安装的recovery环境）（在[V20240224](https://github.com/laobamac/PVE-OpenCore/tree/V20240224)后不再提供包含recovery的引导，将会单独提供recovery镜像！）   
 
 2.更新的OpenCore和macOS版本（在线安装的macOS总是最新版的）   
 
