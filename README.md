@@ -16,7 +16,7 @@ To install macOS on PVE more easily.
 # Status
 
 * OS: tested in 11.0-14.x
-* Opencore: 0.9.8
+* Opencore: 0.9.9
     * NVRAM: native
     * AppleHotKey: works
     * FileVault: OK（Already patched for machines which have AVX2 patches）
