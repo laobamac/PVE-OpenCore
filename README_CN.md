@@ -16,7 +16,7 @@
 # 状态
 
 * 系统版本: 已测试 11.0-14.x
-* Opencore: 0.9.8
+* Opencore: 0.9.9
     * NVRAM: 原生
     * AppleHotKey: 没问题！
     * FileVault: 没问题！（已对打了AVX2补丁的版本添加Patch！）
