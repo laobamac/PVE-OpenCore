@@ -49,3 +49,9 @@
 https://github.com/Leoyzen/KVM-Opencore/  
 https://github.com/acidanthera/OpenCorePkg/  
 https://github.com/thenickdude/KVM-Opencore/  
+
+# 备注
+1.如果你遇到了问题，请先尝试已关闭的反馈中提到的方法，如果仍未解决再提出issue。无意义的issue将被直接关闭。</br>
+2.本项目主要针对Q35机型，i4400fx机型不会主动维护，但本项目还将包括适配i4400fx的版本，以支持直通iGPU的hackintosh。</br>
+3.如果你也是Hackintosh的爱好者，并且有PVE的经验，我期待着欢迎新人加入这个项目！</br>
+4.本项目的分支文件（*.zip）不会主动更新，主要版本将在发布中发布。因此，请不要在没有特殊需求的情况下下载sources.zip。只有重大更改才会更新相应的 EFI 文件夹，并且在所有其他情况下只会发布 *.img 和 single*.img。
