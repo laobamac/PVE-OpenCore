@@ -15,8 +15,8 @@
 
 # 状态
 
-* 系统版本: 已测试 11.0-15.0（Sequoia目前需要-lilubetaall，rel版本未添加，请手动添加！）
-* Opencore: 0.9.9
+* 系统版本: 已测试 11.0-15.0（❗️Sequoia目前（目前！！）需要-lilubetaall，rel版本未添加，请手动添加！❗️）
+* Opencore: 1.0.0
     * NVRAM: 原生
     * AppleHotKey: 没问题！
     * FileVault: 没问题！（已对打了AVX2补丁的版本添加Patch！）
