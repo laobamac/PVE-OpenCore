@@ -15,7 +15,7 @@
 
 # 状态
 
-* 系统版本: 已测试 11.0-14.x
+* 系统版本: 已测试 11.0-15.0（Sequoia目前需要-lilubetaall，rel版本未添加，请手动添加！）
 * Opencore: 0.9.9
     * NVRAM: 原生
     * AppleHotKey: 没问题！
