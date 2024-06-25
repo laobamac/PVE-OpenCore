@@ -15,7 +15,7 @@ To install macOS on PVE more easily.
 
 # Status
 
-* OS: tested in 11.0-14.x
+* OS: tested in 11.0-15.0(❗️Sequoia need adding a arg:-lilubetaall,latest release doesn't has it!Please add it by yourself.❗️)
 * Opencore: 0.9.9
     * NVRAM: native
     * AppleHotKey: works
