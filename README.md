@@ -2,7 +2,7 @@
 # Better_OSX_on_PVE
 [中文](README_CN.md)  
 
-### ⚠️⚠️⚠️ You are viewing the Dev branch! There may be unavailable push notifications here, please use [stable branch](https://github.com/laobamac/PVE-OpenCore/)in production environment.The issue proposed in Dev will not be merged into a stable branch until it is officially released! ⚠️⚠️⚠️
+### ⚠️⚠️⚠️ This version is not always the latest！！！Release is the latest and stablest！！！You are viewing the Dev branch! There may be unavailable push notifications here, please use [stable branch](https://github.com/laobamac/PVE-OpenCore/)in production environment.The issue proposed in Dev will not be merged into a stable branch until it is officially released! ⚠️⚠️⚠️
 
 To install macOS on PVE more easily.
 
