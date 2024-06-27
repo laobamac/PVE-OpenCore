@@ -6,7 +6,7 @@
 To install macOS on PVE more easily.
 
 <div align="center">
-  <a href="https://github.com/laobamac"><img width="100px" alt="logo" src="https://mirror.ghproxy.com/https://github.com/laobamac/PVE-OpenCore/pve-logo.svg"/></a>
+  <a href="https://github.com/laobamac"><img width="100px" alt="logo" src="https://raw.githubusercontent.com/laobamac/PVE-OpenCore/5fe95e56f83aceff7f483c1c19d722c3ca11048a/po-logo.svg"/></a>
   <p><em>🖥A macOS bootloader for PVE, based on OpenCore, powered by laobamac.</em></p>
 <div>
   <a href="https://github.com/laobamac/PVE-OpenCore/blob/main/LICENSE">
