@@ -4,6 +4,18 @@
 [开发版分支](https://github.com/laobamac/PVE-OpenCore/tree/dev)  
 更加简单高效地在PVE安装macOS
 
+<div align="center">
+  <a href="https://github.com/laobamac"><img width="100px" alt="logo" src="https://github.com/laobamac/PVE-OpenCore/raw/stable/po-logo.svg"/></a>
+  <p><em>🖥A macOS bootloader for PVE, based on OpenCore, powered by laobamac.</em></p>
+<div>
+  <a href="https://github.com/laobamac/PVE-OpenCore/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/laobamac/PVE-OpenCore" alt="License" />
+  </a>
+  <a href="https://github.com/laobamac/PVE-OpenCore/releases">
+    <img src="https://img.shields.io/github/release/laobamac/PVE-OpenCore" alt="latest version" />
+  </a>
+</div>
+
 # 优点
 ## 修复了KVM-OpenCore 3+个Bug....
 ## 拥有比 KVM-OpenCore 更小的体积！
