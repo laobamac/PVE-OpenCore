@@ -5,6 +5,18 @@
 
 To install macOS on PVE more easily.
 
+<div align="center">
+  <a href="https://github.com/laobamac"><img width="100px" alt="logo" src="https://mirror.ghproxy.com/https://github.com/laobamac/PVE-OpenCore/imgs/pve-logo.svg"/></a>
+  <p><em>🖥A macOS bootloader for PVE, based on OpenCore, powered by laobamac.</em></p>
+<div>
+  <a href="https://github.com/laobamac/PVE-OpenCore/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/laobamac/PVE-OpenCore" alt="License" />
+  </a>
+  <a href="https://github.com/laobamac/PVE-OpenCore/releases">
+    <img src="https://img.shields.io/github/release/laobamac/PVE-OpenCore" alt="latest version" />
+  </a>
+</div>
+
 # Advantages
 ## Fewer bugs amd smaller file than KVM-OpenCore
 1.Easy to use(due the macos basesystem inside)（the macOS recovery won't be provided after [V20240224](https://github.com/laobamac/PVE-OpenCore/releases/tag/V20240224),a single recovery image will take its place）   
