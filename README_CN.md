@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/github/release/laobamac/PVE-OpenCore" alt="latest version" />
   </a>
 </div>
+</div>
 
 # 优点
 ## 修复了KVM-OpenCore 3+个Bug....
