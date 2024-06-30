@@ -16,7 +16,7 @@ To install macOS on PVE more easily.
     <img src="https://img.shields.io/github/release/laobamac/PVE-OpenCore" alt="latest version" />
   </a>
 </div>
-
+</div>
 # Advantages
 ## Fewer bugs amd smaller file than KVM-OpenCore
 1.Easy to use(due the macos basesystem inside)（the macOS recovery won't be provided after [V20240224](https://github.com/laobamac/PVE-OpenCore/releases/tag/V20240224),a single recovery image will take its place）   
