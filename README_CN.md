@@ -56,7 +56,7 @@
 2. 上传到PVE 8
 3. 正确创建一个虚拟机并使用引导文件启动
 4. 开始在线安装macOS
-5. 安装后请修改ScanPolicy或删除com.apple.recovery.boot以隐藏安装项
+5. 安装后会自动隐藏多余启动项，仅保留macOS。若发现多余项目，请按照[dortania的安装指导](https://dortania.github.io/OpenCore-Install-Guide/)或其他文档修改ScanPolicy或删除com.apple.recovery.boot以隐藏安装项
 
 # 引用
 https://github.com/Leoyzen/KVM-Opencore/  
