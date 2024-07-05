@@ -1,8 +1,8 @@
 # PVE-OpenCore
 # Better_OSX_on_PVE
 [中文](README_CN.md)
-[Dev version](https://github.com/laobamac/PVE-OpenCore/tree/dev)
-
+[Dev version](https://github.com/laobamac/PVE-OpenCore/tree/dev)<br>
+QQ交流群 734284448<br>
 To install macOS on PVE more easily.
 
 <div align="center">
