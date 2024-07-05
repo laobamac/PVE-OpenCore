@@ -56,7 +56,7 @@ To install macOS on PVE more easily.
 2. Upload the .img to you PVE 8
 3. Create a VM correctly and boot with the .img
 4. Start installing macOS online
-5. Unnecessary startup items will be automatically hidden after installation, and only macOS will be kept. If you find any redundant items, modify the ScanPolicy by following [dortania's installation guide] (https://dortania.github.io/OpenCore-Install-Guide/) or other documentation or delete com.apple.recovery.boot to hide the installation items
+5. Unnecessary startup items will be automatically hidden after installation, and only macOS will be kept. If you find any redundant items, modify the ScanPolicy by following [dortania's installation guide](https://dortania.github.io/OpenCore-Install-Guide/) or other documentation or delete com.apple.recovery.boot to hide the installation items
 
 # Credits
 https://github.com/Leoyzen/KVM-Opencore/  
