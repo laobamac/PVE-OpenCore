@@ -68,5 +68,6 @@ https://github.com/thenickdude/KVM-Opencore/
  2.This project is mainly for the Q35 model, the i4400fx model will not be actively maintained, but this project will also include a version adapted to the i4400fx to support the hackintosh of the pass-through iGPU.</br>
  3.If you're also a Hackintosh enthusiast and have experience with PVE, I'm looking forward to welcoming new people to the project!</br>
  4.The branch files (*.zip) of this project will not be actively updated, and major versions will be released in the release. So please do not download sources.zip without special needs. Only significant changes will update the corresponding EFI folder, and only *.img and single*.img will be published in all other cases.
-<br>QQ交流群<br>
+<br>
+## QQ交流群
 ![Q群](https://krseoul.imgtbl.com/i/2024/08/01/66ab3be18dde5.jpg)
