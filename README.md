@@ -14,7 +14,7 @@ To install macOS on PVE more easily.
   </a>
   <a href="https://github.com/laobamac/PVE-OpenCore/releases">
     <img src="https://img.shields.io/github/release/laobamac/PVE-OpenCore" alt="latest version" />
-  </a> 
+  </a>
 </div>
 </div>
 
@@ -28,8 +28,8 @@ To install macOS on PVE more easily.
 
 # Status
 
-* OS: tested in 11.0-15.0(❗️Sequoia need adding a arg:-lilubetaall（Until now！！）,latest release doesn't has it!Please add it by yourself.❗️)
-* Opencore: 1.0.0
+* OS: tested in 11.0-15.0b5
+* Opencore: 1.0.1 Mod
     * NVRAM: native
     * AppleHotKey: works
     * FileVault: OK（Already patched for machines which have AVX2 patches）

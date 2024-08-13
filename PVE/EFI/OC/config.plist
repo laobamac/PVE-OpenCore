@@ -45,8 +45,10 @@
             <array/>
             <key>Quirks</key>
             <dict>
+                <key>EnableForAll</key>
+                <false/>
                 <key>FadtEnableReset</key>
-                <true/>
+                <false/>
                 <key>NormalizeHeaders</key>
                 <false/>
                 <key>RebaseRegions</key>
@@ -78,6 +80,8 @@
                 <key>DisableVariableWrite</key>
                 <false/>
                 <key>DiscardHibernateMap</key>
+                <false/>
+                <key>EnableForAll</key>
                 <false/>
                 <key>EnableSafeModeSlide</key>
                 <true/>
@@ -143,7 +147,7 @@
                     <key>BundlePath</key>
                     <string>Lilu.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.7 | Patch engine</string>
+                    <string>V1.6.8 | Patch engine</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -161,9 +165,9 @@
                     <key>BundlePath</key>
                     <string>VirtualSMC.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.2 | SMC emulator</string>
+                    <string>V1.3.3 | SMC emulator</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/VirtualSMC</string>
                     <key>MaxKernel</key>
@@ -179,7 +183,7 @@
                     <key>BundlePath</key>
                     <string>WhateverGreen.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.6</string>
+                    <string>V1.6.7</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -197,7 +201,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.8.9 | Audio patches</string>
+                    <string>V1.9.1 | Audio patches</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -235,7 +239,7 @@
                     <key>Comment</key>
                     <string>V1.0</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>ExecutablePath</key>
                     <string></string>
                     <key>MaxKernel</key>
@@ -253,7 +257,7 @@
                     <key>Comment</key>
                     <string>V111.1.18</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>ExecutablePath</key>
                     <string></string>
                     <key>MaxKernel</key>
@@ -269,7 +273,7 @@
                     <key>BundlePath</key>
                     <string>CryptexFixup.kext</string>
                     <key>Comment</key>
-                    <string>V1.0.2 | Support for non-AVX2 CPUs in Ventura</string>
+                    <string>V1.0.3 | Support for non-AVX2 CPUs in Ventura</string>
                     <key>Enabled</key>
                     <false/>
                     <key>ExecutablePath</key>
@@ -278,6 +282,24 @@
                     <string>22.99.99</string>
                     <key>MinKernel</key>
                     <string>22.1.0</string>
+                    <key>PlistPath</key>
+                    <string>Contents/Info.plist</string>
+                </dict>
+                <dict>
+                    <key>Arch</key>
+                    <string>Any</string>
+                    <key>BundlePath</key>
+                    <string>USBInjectAll.kext</string>
+                    <key>Comment</key>
+                    <string>V0.8.0</string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>ExecutablePath</key>
+                    <string>Contents/MacOS/USBInjectAll</string>
+                    <key>MaxKernel</key>
+                    <string></string>
+                    <key>MinKernel</key>
+                    <string></string>
                     <key>PlistPath</key>
                     <string>Contents/Info.plist</string>
                 </dict>
@@ -304,9 +326,9 @@
             <key>Emulate</key>
             <dict>
                 <key>Cpuid1Data</key>
-                <data>6gYJAAAAAAAAAAAAAAAAAA==</data>
+                <data>VAYFAAAAAAAAAAAAAAAAAA==</data>
                 <key>Cpuid1Mask</key>
-                <data>/////wAAAAAAAAAAAAAAAA==</data>
+                <data>////AAAAAAAAAAAAAAAAAA==</data>
                 <key>DummyPowerManagement</key>
                 <true/>
                 <key>MaxKernel</key>
@@ -527,7 +549,7 @@
                 <key>LegacyCommpage</key>
                 <false/>
                 <key>PanicNoKextDump</key>
-                <false/>
+                <true/>
                 <key>PowerTimeoutKernelPanic</key>
                 <false/>
                 <key>ProvideCurrentCpuInfo</key>
@@ -535,9 +557,9 @@
                 <key>SetApfsTrimTimeout</key>
                 <integer>0</integer>
                 <key>ThirdPartyDrives</key>
-                <true/>
-                <key>XhciPortLimit</key>
                 <false/>
+                <key>XhciPortLimit</key>
+                <true/>
             </dict>
             <key>Scheme</key>
             <dict>
@@ -583,6 +605,8 @@
                 <true/>
                 <key>ShowPicker</key>
                 <true/>
+                <key>SkipCustomEntryCheck</key>
+                <false/>
                 <key>TakeoffDelay</key>
                 <integer>0</integer>
                 <key>Timeout</key>
@@ -595,7 +619,7 @@
                 <key>ApplePanic</key>
                 <true/>
                 <key>DisableWatchDog</key>
-                <false/>
+                <true/>
                 <key>DisplayDelay</key>
                 <integer>0</integer>
                 <key>DisplayLevel</key>
@@ -612,7 +636,7 @@
             <key>Security</key>
             <dict>
                 <key>AllowSetDefault</key>
-                <true/>
+                <false/>
                 <key>ApECID</key>
                 <integer>0</integer>
                 <key>AuthRestart</key>
@@ -828,11 +852,11 @@
             <key>Generic</key>
             <dict>
                 <key>AdviseFeatures</key>
-                <true/>
+                <false/>
                 <key>MLB</key>
-                <string>C02818100QXJG361H</string>
+                <string>C02830501GUJG36UE</string>
                 <key>MaxBIOSVersion</key>
-                <true/>
+                <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
@@ -844,9 +868,9 @@
                 <key>SystemProductName</key>
                 <string>iMacPro1,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02WN0W8HX87</string>
+                <string>C02X4MY4HX87</string>
                 <key>SystemUUID</key>
-                <string>B5259071-22D6-478B-BF70-B9F3C99B17A5</string>
+                <string>9C176B02-0912-4C42-AF9D-97A6C103A253</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
@@ -969,18 +993,6 @@
                     <false/>
                     <key>Path</key>
                     <string>OpenCanopy.efi</string>
-                </dict>
-                <dict>
-                    <key>Arguments</key>
-                    <string></string>
-                    <key>Comment</key>
-                    <string></string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>LoadEarly</key>
-                    <false/>
-                    <key>Path</key>
-                    <string>ResetNvramEntry.efi</string>
                 </dict>
             </array>
             <key>Input</key>
