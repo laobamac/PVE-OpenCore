@@ -29,7 +29,7 @@
 # 状态
 
 * 系统版本: 已测试 11.0-15.0b5
-* Opencore: 1.0.0
+* Opencore: 1.0.1 Mod
     * NVRAM: 原生
     * AppleHotKey: 没问题！
     * FileVault: 没问题！（已对打了AVX2补丁的版本添加Patch！）
