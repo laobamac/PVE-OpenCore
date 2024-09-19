@@ -70,4 +70,4 @@ https://github.com/thenickdude/KVM-Opencore/
  4.The branch files (*.zip) of this project will not be actively updated, and major versions will be released in the release. So please do not download sources.zip without special needs. Only significant changes will update the corresponding EFI folder, and only *.img and single*.img will be published in all other cases.
 <br>
 ## QQ交流群
-![Q群](https://krseoul.imgtbl.com/i/2024/08/01/66ab3be18dde5.jpg)
+![Q群](https://file.imgcc.cloud/images/2024/09/19/ab7ad35c5a6424fe3ece67deaa38e6b5.jpg)
