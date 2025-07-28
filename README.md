@@ -16,7 +16,7 @@ To install macOS on PVE more easily.
     <img src="https://img.shields.io/github/release/laobamac/PVE-OpenCore" alt="latest version" />
   </a>
   <a href="https://github.com/laobamac/PVE-OpenCore/releases">
-    <img src="[https://img.shields.io/github/release/laobamac/PVE-OpenCore](https://img.shields.io/github/downloads/laobamac/PVE-OpenCore/total?color=white&style=plastic)" alt="downloads" />
+    <img src="https://img.shields.io/github/downloads/laobamac/PVE-OpenCore/total?color=white&style=plastic" alt="downloads" />
   </a>
 </div>
 </div>
